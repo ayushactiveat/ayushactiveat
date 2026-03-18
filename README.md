@@ -8,7 +8,6 @@ I am a backend developer and systems programmer with a strong focus on distribut
 ###  Currently Working On
 * **Contributing to Open Source:** Actively maintaining and enhancing Java-based tools.
 
-### 🛠️ Technologies I Work With
-* **Languages:** C++, C, Java, Python, JavaScript, HTML/CSS, SQL (SQLite/PostgreSQL).
-* **Systems & Architecture:** HLD, Distributed Systems, Microservices, Load Balancing, Sharding, Caching, Rate Limiting, Consistent Hashing, CAP theorem, Database Replication.
-* **Tools & Infrastructure:** Linux, Ubuntu, Docker, Git/Github, AWS (EC2, S3, RDS), Bash, Perl, Firebase, FastAPI.
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-A21F25?style=for-the-badge&logo=data&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
