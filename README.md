@@ -6,7 +6,7 @@ I am a backend developer and systems programmer
 * competitive programmer with a strong foundation in Data Structures, Algorithms, and System Design.
 * currently deep-diving into Java Design Patterns, CI/CD workflows, and the internals of distributed systems
 
-###  Currently focused On
+###  Currently Focused On
 * **Contributing to Open Source:** Actively maintaining and enhancing Java-based tools.
 
 ###  Technologies I Work With
