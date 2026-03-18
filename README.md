@@ -1,7 +1,6 @@
 # Hi there! I'm Ayush Singh
 
-I am a backend developer and systems programmer with a strong focus on distributed systems, scalable microservices, and high-performance applications.
-
+I am a backend developer and systems programmer
 ###  About Me
 * open-source contributor
 * competitive programmer with a strong foundation in Data Structures, Algorithms, and System Design.
