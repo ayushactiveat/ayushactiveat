@@ -1,6 +1,4 @@
-# [cite_start]Hi there, I'm Ayush Singh 👋 [cite: 1]
-
-**B.Tech Student | Open Source Contributor | Backend & Systems Developer**
+# Hi there I'm Ayush Singh
 
 I am a backend developer and systems programmer with a strong focus on distributed systems, cryptographic protocols, and high-performance applications. 
 
