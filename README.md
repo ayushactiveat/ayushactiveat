@@ -6,9 +6,6 @@ I am a backend developer and systems programmer
 * competitive programmer with a strong foundation in Data Structures, Algorithms, and System Design.
 * currently deep-diving into Java Design Patterns, CI/CD workflows, and the internals of distributed systems
 
-###  Currently Focused On
-* **Contributing to Open Source:** Actively maintaining and enhancing Java-based tools.
-
 ###  Technologies I Work With
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
