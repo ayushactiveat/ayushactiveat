@@ -6,6 +6,8 @@ I am a **Software Engineer** with a strong focus on building scalable backend sy
 *   **Open-Source Contributor:** I have contributed to major production codebases, including Checkstyle (Java) and OpenImageIO (C++). I enjoy diving into massive legacy codebases, fixing bugs, and working with global maintainers through code reviews.
 *   **Problem Solver:** Competitive programmer with a strong foundation in Data Structures, Algorithms, and System Design.
 
+🔗 **[View all my open-source Pull Requests here](https://github.com/pulls?q=is%3Apr+author%3Aayushactiveat+is%3Aclosed)**
+
 ### 🛠️ Technologies I Work With
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
