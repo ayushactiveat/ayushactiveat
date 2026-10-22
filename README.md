@@ -1,12 +1,13 @@
 # Hi there! I'm Ayush Singh
 
-I am a backend developer and systems programmer
-###  About Me
-* open-source contributor
-* competitive programmer with a strong foundation in Data Structures, Algorithms, and System Design.
+I am a **Software Engineer** with a strong focus on building scalable backend systems, distributed architectures, and performant applications.
 
-###  Technologies I Work With
+### 👨‍💻 About Me
+*   **Open-Source Contributor:** I have contributed to major production codebases, including Checkstyle (Java) and OpenImageIO (C++). I enjoy diving into massive legacy codebases, fixing bugs, and working with global maintainers through code reviews.
+*   **Problem Solver:** Competitive programmer with a strong foundation in Data Structures, Algorithms, and System Design.
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+### 🛠️ Technologies I Work With
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-A21F25?style=for-the-badge&logo=data&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-5ABF9A?style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
