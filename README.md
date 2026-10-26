@@ -6,7 +6,7 @@ I am a **Software Engineer** with a strong focus on building scalable backend sy
 *   **Open-Source Contributor:** I have contributed to major production codebases, including Checkstyle, OpenThread and OpenImageIO. I enjoy diving into massive legacy codebases, fixing bugs, and working with global maintainers through code reviews.
 *   **Problem Solver:** Competitive programmer with a strong foundation in Data Structures, Algorithms, and System Design.
 
-🔗 **[View all my open-source Pull Requests here](https://github.com/pulls?q=is%3Apr+author%3Aayushactiveat+is%3Aclosed)**
+🔗 **[View all my open-source Pull Requests here](https://github.com/pulls/search?q=is%3Apr+author%3Aayushactiveat+state%3Amerged+sort%3Aupdated-desc+)**
 
 ### 🛠️ Technologies I Work With
 
